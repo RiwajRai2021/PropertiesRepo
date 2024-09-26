@@ -1,1 +1,7 @@
-#applicationProperties
+app.name=MicroServiceApp
+db.connection.string=jdbc:mysql://localhost/estore
+db.connection.username=root
+db.connection.password=root123
+app.calculatefare=Welcome to calculate fare. Calculating now...
+app.welcome=welcome to My app
+app.greeting=this is a demo for config server capabilities
